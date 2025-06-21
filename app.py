@@ -26,9 +26,7 @@ db = client["dapp"]
 users = db["users"]
 reports = db["reports"]
 
-@app.route("/")
-def home():
-    return "Hi from backend"
+
 
 @app.route("/api/pending-reports", methods=["GET"])
 def get_pending_reports():

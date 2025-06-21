@@ -7,7 +7,7 @@ function Login() {
 
   const handleSignIn = () => {
     // simulate login
-    navigate("/report");
+    navigate("/dashboard");
   };
 
   return (

@@ -163,7 +163,7 @@ function DashboardCom() {
               marginBottom: 16,
             }}
           >
-            <h3 style={{ margin: "4px 0" }}>
+            <h3 style={{ margin: "4px 0" }} className="font-bold">
               {report["First AI Evaluation Report"]?.Title || "No title"}
             </h3>
             <p style={{ color: "#555" }}>
