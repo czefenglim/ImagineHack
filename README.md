@@ -25,7 +25,6 @@
 - *Backend*: Python (**Flask**)
 - *Database*: MongoDB
 - *AI Integration*: JamAI Base
-- *Deployment*: Vercel / Netlify / Heroku / Render / GitHub Pages
 - *Version Control*: Git & GitHub
 
 ---
