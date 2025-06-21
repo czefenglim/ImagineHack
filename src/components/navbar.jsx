@@ -15,9 +15,6 @@ function navbar() {
         <Link to="/dashboard" className="hover:text-blue-500">
           Dashboard
         </Link>
-        <Link to="/vote" className="hover:text-blue-500">
-          Vote
-        </Link>
         <Link to="/notifications" className="hover:text-blue-500">
           Notifications
         </Link>
