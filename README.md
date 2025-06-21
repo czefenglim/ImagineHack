@@ -32,14 +32,15 @@
 
 ## 🔍 Challenge and Approach
 
-🧩 Challenge
+### 🧩 Challenge
+
 The internet is flooded with misinformation and fake news, especially on social media platforms. While users may recognize suspicious content, there is often no accessible and credible channel for them to report it and have it verified. Additionally, expert reviewers face challenges in handling large volumes of reports efficiently.
 
 
 
 
 
-💡 Our Approach
+### 💡 Our Approach
 
 To address the growing challenge of misinformation, we built FactBridge — a platform that:
 
