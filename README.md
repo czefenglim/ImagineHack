@@ -1,4 +1,4 @@
-# 🧠 FactBridge: A Transparent, AI-Powered Crowdsourced Verification Platform
+# 🧠 FactBridge: An AI-Powered Crowdsourced Verification Platform
 
 *FactBridge* is a fact-checking and misinformation evaluation platform designed to assist organisations in reviewing potentially false or misleading content. It combines a well-trained Artificial Intelligence (AI) model with a network of experts from various industries and regions to ensure the most accurate and reliable verification outcomes. All data flows are securely logged. Every evaluation—from AI and human—is version-controlled and traceable. This makes FactBridge not just a tool for detection, but a trusted verification authority.
 
