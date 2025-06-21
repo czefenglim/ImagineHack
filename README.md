@@ -67,6 +67,24 @@ This hybrid approach — combining AI, crowdsourced expert review, and platform 
 ### 2. Evaluation & Evidence Upload
 ![Evaluation Form](./28139136-0047-4d6a-bafd-97572e03d2c8.png)
 
+
 ---
+
+## Setup
+1. Run command `pip install -r requirements.txt` at terminal.
+2. Request owner (`lightningjq123456@gmail.com`) for access to MongoDB database.
+3. Change MongoDB Client URI.
+4. Install Node.js and npm.
+> node -v
+> npm -v
+5. Install dependencies and start the React dev server:
+> npm install
+> npm start
+6. Available Scripts
+> npm start       # Runs the app in development mode
+> npm run dev     # Builds the app for development
+7. React code and Python code should be run at different terminal.
+
+
 
 
