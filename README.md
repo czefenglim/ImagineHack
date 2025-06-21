@@ -1,4 +1,4 @@
-# 🧠 FactBridge
+# 🧠 FactBridge: AI-Powered Crowdsourced Verification Platform
 
 *FactBridge* is a fact-checking and misinformation evaluation platform designed to support expert reviewers in identifying and validating fake news. Users can report questionable content from any social media platform, and our team of verified experts evaluate the claims efficiently with the help of AI-powered tools. The platform aims to enhance the accuracy and speed of fake news detection and support a healthier information ecosystem.
 
