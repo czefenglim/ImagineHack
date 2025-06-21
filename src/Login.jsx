@@ -1,7 +1,15 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import { CheckCircleIcon } from "@heroicons/react/24/solid";
 
-function loginPage() {
+function Login() {
+  const navigate = useNavigate();
+
+  const handleSignIn = () => {
+    // simulate login
+    navigate("/report");
+  };
+
   return (
     <div className="flex justify-center items-center min-h-screen bg-gray-100">
       <div className="flex shadow-lg rounded-lg overflow-hidden">
@@ -76,7 +84,10 @@ function loginPage() {
                   Forgot password?
                 </a>
               </div>
-              <button className="px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition duration-200 w-full">
+              <button
+                className="px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition duration-200 w-full"
+                onClick={handleSignIn}
+              >
                 Sign In
               </button>
             </form>
@@ -87,4 +98,4 @@ function loginPage() {
   );
 }
 
-export default loginPage;
+export default Login;

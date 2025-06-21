@@ -1,8 +1,21 @@
 import React from "react";
-import LoginPage from "./loginPage.jsx";
+import Login from "./Login.jsx";
+import Report from "./Report.jsx";
+import { Routes, Route } from "react-router-dom";
+import Dashboard from "./Dashboard.jsx";
+import Vote from "./Vote.jsx";
+import Notifications from "./Notification.jsx";
 
 function App() {
-  return <LoginPage />;
+  return (
+    <Routes>
+      <Route path="/" element={<Login />} />
+      <Route path="/report" element={<Report />} />
+      <Route path="/dashboard" element={<Dashboard />} />
+      <Route path="/vote" element={<Vote />} />
+      <Route path="/notifications" element={<Notifications />} />
+    </Routes>
+  );
 }
 
 export default App;

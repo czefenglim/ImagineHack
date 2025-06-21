@@ -1,14 +1,14 @@
 import React from "react";
 import NavBar from "./components/navbar";
-import Reportform from "./components/Report/Reportform";
+import VoteCom from "./components/VoteCom";
 
-function Report() {
+function Vote() {
   return (
     <>
       <NavBar />
-      <Reportform />
+      <VoteCom />
     </>
   );
 }
 
-export default Report;
+export default Vote;
