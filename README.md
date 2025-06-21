@@ -21,10 +21,10 @@
 
 ## 💻 Technologies Used
 
-- *Frontend*: HTML, CSS, JavaScript (React or basic components as needed)
-- *Backend*: Node.js / Python (Flask/FastAPI/Django if used)
-- *Database*: Firebase / MongoDB / MySQL (whichever you used)
-- *AI Integration*: Open-source AI summarization models (e.g., BART, T5, or Hugging Face)
+- *Frontend*: JavaScript (**React**), HTML, CSS, JavaScript
+- *Backend*: Python (**Flask**)
+- *Database*: MongoDB
+- *AI Integration*: JamAI Base
 - *Deployment*: Vercel / Netlify / Heroku / Render / GitHub Pages
 - *Version Control*: Git & GitHub
 
@@ -40,17 +40,21 @@ The internet is flooded with misinformation and fake news, especially on social 
 
 
 💡 Our Approach
-To address this, we built FactBridge, a platform that:
+To address the growing challenge of misinformation, we built FactBridge — a platform that:
 
-• Enables any user to report suspicious news from social media.
+- Receives reports of potentially false content from major social media platforms (e.g., Instagram, X, Facebook).
 
-• Uses open-source AI to generate summaries of reported content, helping experts understand the case faster.
+- Utilizes open-source AI models to perform an initial evaluation, generating summaries and preliminary assessments to accelerate the verification process.
 
-• Provides a simple and focused interface for expert reviewers to evaluate cases and mark them as real or fake.
+- Connects with a network of experts from diverse industries and regions for manual review of reported content.
 
-• Summarizes the expert's decision using AI and sends the final result back to social media platforms.
+- Provides a streamlined interface for expert reviewers to assess reports and classify them as real or fake.
 
-This approach combines crowdsourced reporting, expert review, and AI assistance to streamline the fake news detection process from end to end.
+- Requires multiple expert evaluations per report, reducing individual bias and enhancing reliability.
+
+- Uses AI to summarize the consensus from expert reviews and delivers a final verified outcome back to the reporting platform (e.g., the social media platform).
+
+This hybrid approach — combining AI, crowdsourced expert review, and platform integration — ensures a scalable, transparent, and accurate solution for combating misinformation from start to finish.
 
 ---
 
