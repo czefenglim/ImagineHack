@@ -21,11 +21,11 @@
 
 ## 💻 Technologies Used
 
-- *Frontend*: JavaScript (**React**), HTML, CSS, JavaScript
-- *Backend*: Python (**Flask**)
-- *Database*: MongoDB
-- *AI Integration*: JamAI Base
-- *Version Control*: Git & GitHub
+- **Frontend**: JavaScript (**React**), HTML, CSS, JavaScript
+- **Backend**: Python (**Flask**)
+- **Database**: MongoDB
+- **AI Integration**: JamAI Base
+- **Version Control**: Git & GitHub
 
 ---
 
