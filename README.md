@@ -40,6 +40,7 @@ The internet is flooded with misinformation and fake news, especially on social 
 
 
 💡 Our Approach
+
 To address the growing challenge of misinformation, we built FactBridge — a platform that:
 
 - Receives reports of potentially false content from major social media platforms (e.g., Instagram, X, Facebook).
