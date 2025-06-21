@@ -76,12 +76,15 @@ This hybrid approach — combining AI, crowdsourced expert review, and platform 
 3. Change MongoDB Client URI.
 4. Install Node.js and npm.
 > node -v
+> 
 > npm -v
 5. Install dependencies and start the React dev server:
 > npm install
+>
 > npm start
 6. Available Scripts
 > npm start       # Runs the app in development mode
+>
 > npm run dev     # Builds the app for development
 7. React code and Python code should be run at different terminal.
 
