@@ -61,12 +61,30 @@ This hybrid approach — combining AI, crowdsourced expert review, and platform 
 
 ## 📸 Usage Instructions
 
-### 1. Report to be Evaluated by Experts
-![Report List](./fb96486b-7b61-4de0-9572-b23e0e5f9c6b.png)
+### 1. Register page
+![Register](./fb96486b-7b61-4de0-9572-b23e0e5f9c6b.png)
 
-### 2. Evaluation & Evidence Upload
-![Evaluation Form](./28139136-0047-4d6a-bafd-97572e03d2c8.png)
+- This is o page for users who do not have an account and need to register an account
 
+### 2. Login page
+![Login](./28139136-0047-4d6a-bafd-97572e03d2c8.png)
+
+- This is a poge for users who have accounts and need to log in to their accounts.
+
+### 3. Evaluation page
+![Evaluation](./28139136-0047-4d6a-bafd-97572e03d2c8.png)
+
+- This is to help users complete fact-checking work in a systematic manner and retain a complete chain of evidence.
+
+### 4. Evaluation History page
+![Evaluation History](./28139136-0047-4d6a-bafd-97572e03d2c8.png)
+
+-Through clear visuel date dashboards and intellígent workflow design, It helps users efficlently manage the entire lífe cycle of assessment projects.
+
+### 5. Pending Reports page
+![Pending Reports](./28139136-0047-4d6a-bafd-97572e03d2c8.png)
+
+- Help users efficiently manage and prioritize content to be verified.
 
 ---
 
