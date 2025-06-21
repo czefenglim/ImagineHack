@@ -21,7 +21,7 @@
 
 ## 💻 Technologies Used
 
-- **Frontend**        : JavaScript (**React**), HTML, CSS
+- **Frontend**        : JavaScript (**React**), HTML, CSS (**Tailwind**)
 - **Backend**         : Python (**Flask**)
 - **Database**        : MongoDB
 - **AI Integration**  : JamAI Base
