@@ -28,7 +28,7 @@
 
 ### 🧩 Challenge
 
-The internet is flooded with misinformation and fake news, especially on social media platforms. While users may recognize suspicious content, there is often no accessible and credible channel for them to report it and have it verified. Additionally, expert reviewers face challenges in handling large volumes of reports efficiently.
+The internet is flooded with misinformation and fake news, especially on social media platforms. Although AI has the potential to help, it alone lacks the contextual understanding and credibility required for reliable verification. On the other hand, solely relying on experts for evaluation potentially enhances accuracy but lacks of efficiency. Additionally, expert reviewers may also face challenges in handling large volumes of reports efficiently.
 
 
 ### 💡 Our Approach
