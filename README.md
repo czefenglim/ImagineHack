@@ -89,12 +89,13 @@ This hybrid approach — combining AI, crowdsourced expert review, and platform 
 > npm install
 >
 > npm run dev
-3. Create a seperate terminal.
-4. Run command `pip install -r requirements.txt` at terminal.
-5. Request owner (`lightningjq123456@gmail.com`) for access to MongoDB database.
-6. Change MongoDB Client URI.
-7. Run command `python app.py`
-8. View the website in web browser through localhost url provided.
+3. View the website in web browser through localhost url provided. (Do not move to other page yet)
+4. Create a seperate terminal.
+5. Run command `pip install -r requirements.txt` at terminal.
+6. Request owner (`lightningjq123456@gmail.com`) for access to MongoDB database.
+7. Change MongoDB Client URI.
+8. Run command `python app.py`
+9. Refresh the browser ad start explore the website.
 
 
 
