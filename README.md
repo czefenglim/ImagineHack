@@ -12,11 +12,6 @@
 - [Fatma Saad] 👾🍬
 - [Luo Wantong] 🐹🥑
 
-
-
-
-
-
 ---
 
 ## 💻 Technologies Used
@@ -34,9 +29,6 @@
 ### 🧩 Challenge
 
 The internet is flooded with misinformation and fake news, especially on social media platforms. While users may recognize suspicious content, there is often no accessible and credible channel for them to report it and have it verified. Additionally, expert reviewers face challenges in handling large volumes of reports efficiently.
-
-
-
 
 
 ### 💡 Our Approach
@@ -89,22 +81,20 @@ This hybrid approach — combining AI, crowdsourced expert review, and platform 
 ---
 
 ## Setup
-1. Run command `pip install -r requirements.txt` at terminal.
-2. Request owner (`lightningjq123456@gmail.com`) for access to MongoDB database.
-3. Change MongoDB Client URI.
-4. Ensure Node.js and npm are installed.
+1. Ensure Node.js and npm are installed.
 > node -v
 > 
 > npm -v
-5. Install dependencies and start the React dev server:
+2. Install dependencies and start the React dev server:
 > npm install
 >
-> npm start
-6. Available Scripts
-> npm start       # Runs the app in development mode
->
-> npm run dev     # Builds the app for development
-7. React code and Python code should be run at different terminal.
+> npm run dev
+3. Create a seperate terminal.
+4. Run command `pip install -r requirements.txt` at terminal.
+5. Request owner (`lightningjq123456@gmail.com`) for access to MongoDB database.
+6. Change MongoDB Client URI.
+7. Run command `python app.py`
+8. View the website in web browser through localhost url provided.
 
 
 
