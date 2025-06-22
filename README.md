@@ -92,7 +92,7 @@ This hybrid approach — combining AI, crowdsourced expert review, and platform 
 1. Run command `pip install -r requirements.txt` at terminal.
 2. Request owner (`lightningjq123456@gmail.com`) for access to MongoDB database.
 3. Change MongoDB Client URI.
-4. Install Node.js and npm.
+4. Ensure Node.js and npm are installed.
 > node -v
 > 
 > npm -v
